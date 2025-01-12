@@ -49,3 +49,10 @@ If you’re using Anaconda:
 ```bash
 conda install -c conda-forge opencv
 ```
+5. **Result for the Assignment:**
+script name: /Basic_Operations/11_Assignment.py
+```bash
+code 11_Assignment.py
+or 
+python 11_Assignment.py
+```
